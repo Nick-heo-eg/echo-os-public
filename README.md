@@ -1,5 +1,12 @@
 # Echo OS
 
+This repository documents experimental execution during research.
+It does not represent a production system, live authority, or active enforcement.
+
+---
+
+
+
 Echo is a system that enforces when AI must stop.
 
 This repository is the public entry point.
